@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jonaharagon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://triplebit.net
+  * I am jonaharagon (https://keybase.io/jonaharagon) on keybase.
+  * I have a public key with fingerprint 39F5 D9F9 94D6 FD68 CDC9  3918 F398 CD44 2691 BC48
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014354fcf62ba0752c5ceb6175fbecef4205b22adc102cb9f4963546960039f9c20a",
+      "fingerprint": "39f5d9f994d6fd68cdc93918f398cd442691bc48",
+      "host": "keybase.io",
+      "key_id": "f398cd442691bc48",
+      "kid": "01014354fcf62ba0752c5ceb6175fbecef4205b22adc102cb9f4963546960039f9c20a",
+      "uid": "3164c4d37d2d2bea011091787d7bc119",
+      "username": "jonaharagon"
+    },
+    "service": {
+      "hostname": "triplebit.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1520615885,
+  "expire_in": 157680000,
+  "prev": "631a7be0f0f9615b359bfbe8539d77238fc5ea0f37623ccc43da3cfae0a0c76e",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBRRGJ5dLdyVFqkouqIjltlic+Y+ixRRUhQV9RLF2nbmzDnr5Daz
+zs5uK156SSqjsIJ6MIhuQkEREQiBeEGKtOgigVoWCCVdBKkoKrqcEXvrsfNyLt/l
+//6f0zcrhwn6mNqGsT3fR2zfQM+5NLP7Ys/Dela3jTo2Us/W4KkNJwyccmM1psFG
+WA5wQBQkkSAi8zrkFIlHEsK6DBSJ6BhhIvKcpPM8NBDgeKRrRNRkKpA1meMEjWiI
+5yAbZolpxbGTdEzLpbYUkAwKaqIhE0NWkYE0QQMqETR6FkVe1oCORJUKq+2Up6Dh
+dJjC5aZN3+glNhXvH/z/nDs9ZScAWUSiISgGb/A6hhwAnAYUVTEUHQGgecQUdiy4
+H1P2PtuC1dCBcdtiG8MsBTImwt5svWamSa5jJhNYN91yC7tUn3Rs10Z2gkLVrptM
+RTypW5f0uAewHpt2iemmZdBZUkUGOymTlogAykSu6dkCiedkIKmqFGZxNmk6OGZ6
+DEmRVY4urw7OUEtZAFDRMUc4olGBLkiaTgejSoJmKAovqARJtE8iKDIvIIREwYAC
+IhBzkEOKjFmvr1rLZiOSTHPCOPVMmXELumkHs4293dFcxhdkZs7we5+MCQYK/n69
+w8V5zP01jzsg+2tX0fOfnQvMcy0bo4F3ZTsOre9f2/Y5eDd+tnNO2fizkpHhl7eb
+mka3D/3Itp0ZCQx0FY1/uQxmb6v+mN16fGyldDVaYdQd6zrCVzHF0Tff3g0f88+8
+nhNYgi5fKtymnN+6cbC0cml7f8eJs0M3auOhJc2f6hb2lSaXKTfzci88CfHr91bO
+zZw5WPR1sVtFWokPXVnVOudtSfM38qS0IT99Z/XpyaOVkWV8ccujsoKJQqa55d6m
+krZHb9NrWztvhcthgbuiqXtz74ZD9ozMncnl2VMnHxdOrFuU3TLfT3buCzWE5r3y
+vx5v/1DRu2nwaVXFi2s3G0azD97n/078AcezPcU=
+=Om5O
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonaharagon
+
+==================================================================
